@@ -8,4 +8,4 @@
 - 🌟 Skilled in **C, C++, Python, Java, C#, HTML**.
 - 🔍 Exploring **cybersecurity** and **ethical hacking**.
 - 🛠️ Created **Space Shooter** (a 2D/3D hybrid game) and **The Great Fleece** (a stealth game).
-- 📱 Currently working on a **Fitness App** for Android.
+- 📱 Currently working on a **Game** for Windows.
